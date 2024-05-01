@@ -6,3 +6,8 @@ https://medium.com/@varun.tyagi83/crafting-a-blockchain-symphony-in-python-a-jou
 
 # Sudoku
 https://medium.com/@varun.tyagi83/mastering-sudoku-a-python-journey-89cd56241077
+
+# CAPTCHA Generation
+https://medium.com/@varun.tyagi83/a-guide-to-building-a-captcha-verification-system-in-python-1a5c62922674
+
+
