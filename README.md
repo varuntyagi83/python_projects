@@ -1,3 +1,6 @@
+# Crossword Puzzle
+https://medium.com/@varun.tyagi83/navigating-the-intricacies-of-crossword-puzzle-generation-with-python-d8cc6f153955
+
 # Revolutionizing Delivery Routes with Simulated Annealing
 https://medium.com/operations-research-bit/revolutionizing-delivery-routes-with-simulated-annealing-c3e5867472c7
 
