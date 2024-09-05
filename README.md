@@ -1,5 +1,5 @@
 # A/B Test
-
+https://medium.com/@varun.tyagi83/understanding-a-b-testing-a-data-driven-approach-for-product-optimization-fb928bf5aa0a
 
 # Crossword Puzzle
 https://medium.com/@varun.tyagi83/navigating-the-intricacies-of-crossword-puzzle-generation-with-python-d8cc6f153955
