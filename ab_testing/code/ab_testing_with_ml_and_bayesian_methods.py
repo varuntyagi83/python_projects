@@ -228,7 +228,7 @@ models = {
 # Train and evaluate models
 for model_name, model in models.items():
     if model_name == "Reinforcement Learning":
-        cm, accuracy, precision, recall, f1, avg_reward, p_value, significant = model_func(data)
+        cm, accuracy, precision, recall, f1, avg_reward, p_value, significant = model(data)
         
         # Print Reinforcement Learning Results
         print(f"\n{model_name} Results:")
