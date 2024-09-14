@@ -1,3 +1,6 @@
+# Accelerated A/B Test with Machine Learning and Bayesian
+https://medium.com/@varun.tyagi83/accelerating-decision-making-in-mobile-gaming-a-b-testing-meets-machine-learning-a3d5eb958fd0
+
 # A/B Test
 https://medium.com/@varun.tyagi83/understanding-a-b-testing-a-data-driven-approach-for-product-optimization-fb928bf5aa0a
 
